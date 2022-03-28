@@ -41,12 +41,34 @@ We write "Welcome to go!"
 
 We add to the top of file the following code:
     `package main`
+
 !!TODO: Explain why write that line of code
 
 !!TODO: Explain why write that line of code and why use ( or not ) the "fmt" to print
+
+
 To do this we make the basics imports using:
     `import(
         "fmt"
     )`
 
-and
+
+
+# The folder "webserver"
+
+This is a simple webserver, he render tree pages:
+
+<li>
+    index.html
+</li>
+<li>
+    form.html
+</li>
+<li>
+    hello
+</li>
+
+If you complete the form and submit it, you can se the values in your log.
+
+
+!!TODO: Explain the functions of the code detailed
