@@ -52,8 +52,6 @@ To do this we make the basics imports using:
         "fmt"
     )`
 
-
-
 # The folder "webserver"
 
 This is a simple webserver, he render tree pages:
